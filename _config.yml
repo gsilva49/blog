@@ -1,0 +1,24 @@
+# Site settings
+title: Quebrando o caminho
+email: ngomes.eng@gmail.com
+description: > # Writer Theme is a responsive template
+ Blog destinado a conversar sobre conhecimentos empíricos vividos pelo autor.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://quebrandoocaminho.com/" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  #Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
+  #Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+  #Contact : ['Contact', '/contact', 'fa-plane']
+  #Author : ['Author', '/author/michelle', 'fa-user']
+single_footer: '<p>&copy; 2020 Quebrando o caminho. All rights reserved.</a></p>'
+footer_links:
+    About: ['About', '/about']
+    Writer: ['&copy; 2020 Quebrando o caminho. All rights reserved.</a>', '/about']
+
+
+# Build settings
+# markdown: kramdown
