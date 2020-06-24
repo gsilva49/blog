@@ -61,8 +61,8 @@ Isso não quer dizer que você vai ler somente uma página. Você pode ler 10, 2
 
 # Acompanhe a sua leitura
 
-Por fim, sempre é bom acompanhar como vai a sua leitura. Eu gosto de usar dois aplicativos. Um deles é um aplicativo gratuito da Tag que te ajuda a manter a sua leitura em dia chamado Cabeceira. A melhor funcionalidade dele para mim é a calculadora literária que mostra o quanto de tempo vai demorar para você finalizar um determinado livro.
+Por fim, sempre é bom acompanhar como vai a sua leitura. Eu gosto de usar dois aplicativos. Um deles é um aplicativo gratuito da Tag que te ajuda a manter a sua leitura em dia chamado (Cabeceira)[https://www.taglivros.com/blog/cabeceira-o-app-para-voce-ler-mais-livros/]. A melhor funcionalidade dele para mim é a calculadora literária que mostra o quanto de tempo vai demorar para você finalizar um determinado livro.
 
-Também gosto de usar o Goodreads. É uma rede social onde pessoas podem criar listas de livros que querem ler, falar quais livros estão lendo e qual nota deram para os livros que leram. 
+Também gosto de usar o (Goodreads)[https://www.goodreads.com/]. É uma rede social onde pessoas podem criar listas de livros que querem ler, falar quais livros estão lendo e qual nota deram para os livros que leram. 
 
 Por fim, espero que este artigo tenha te ajudado a começar uma rotina de leitura ou retomar uma. 
