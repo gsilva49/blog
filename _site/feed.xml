@@ -6,13 +6,54 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jul 2020 12:26:30 -0300</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2020 12:26:30 -0300</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2020 19:34:56 -0300</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2020 19:34:56 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
+        <title>O Viés de Confirmação e a Informação Que Nos Engana</title>
+        <description>&lt;p&gt;Quanto mais informação melhor. Pelo menos este era o meu pensamento durante muito tempo. Com o avanço tecnologia, somo bombardeados com milhares de informações todo o momento. No fim, nem conseguimos absorver tudo e temos uma falsa impressão de conhecimento. O que nos faz achar que conhecemos sobre tudo. Mas será que quanto mais informação melhor?&lt;/p&gt;
+
+&lt;p&gt;Em 1974, um psicólogo chamado Paul Slovic fez um experimento para testar o efeito da quantidade de informação em tomada de decisões. O estudo reuniu oito apostadores profissionais de corrida de cavalo que ganhavam a vida com isso. Eles deveriam fazer a previsão de quatro rodadas e cada uma teria 10 cavalos. O objetivo era medir a qualidade da previsão de suas apostas dado um carta quantidade de informação e o nível de confiança de cada apostador.&lt;/p&gt;
+
+&lt;p&gt;Como em cada etapa, teríamos dez cavalos, caso um apostador chutasse aleatoriamente, teria uma probabilidade de 10%. Assim, a sua confiança em um chute, também seria de 10%.&lt;/p&gt;
+
+&lt;p&gt;Na primeira rodada, cada apostador poderia pedir cinco informações sobre os cavalos, como por exemplo anos de experiência. No final dela, a média de acertos foi de 17%. Ou seja, 70% a mais do que um tiro no escuro (que era 10%). Enquanto a confiança girava em torno de 19%.&lt;/p&gt;
+
+&lt;p&gt;Na segunda rodada, os apostadores teriam 10 informações de sua escolha, ou seja, 5 informações adicionais. Na terceira rodada 20. E na quarta 40 informações. No final do experimento, a taxa de acerto deles continuou na faixa de 17% mesmo com 35 informações adicionais comparado na primeira rodada. Porém o nível de confiança tinha chegado em 34%. Ele praticamente dobrou. Ou seja, além de não aumentar a taxa de acerto, as informações adicionais aumentaram a confiança deles. Isso parece até um fenômeno estranho e atípico, porém um empresa que era bastante conhecida no passado, sofreu algo parecido.&lt;/p&gt;
+
+&lt;p&gt;Em 2008, a Nokia era uma das gigantes empresas do mercado de aparelho celular. Nesta época, os smartphones estavam emergindo. Neste mesmo período, Tricia Wang trabalhava com pesquisa para identificar novas necessidades de consumo na Asia e México. &lt;a href=&quot;https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=pt-br&quot;&gt;Ela identificou na China que uma mudança de mercado estava acontecendo&lt;/a&gt;. As pessoas estavam sentido uma maior necessidade de ter um smartphone, até pessoas que ganhavam salários baixo. Ela reportou esta descoberta para a Nokia.&lt;/p&gt;
+
+&lt;p&gt;A Nokia por sua vez, afirmou que tinha uma vasta quantidade de dados e nenhum deles informava que a tendência do mercado seria smartphones. Afirmaram também que as pessoas não iriam querer comprar aparelhos que a bateria não durasse tanto e que poderia quebrar a tela ao cair no chão. O final desta história a gente já sabe. Smartphones é algo que virou comum e a Nokia perdeu o seu mercado. Mas como pode tanta informação acabar deixando a gente cego? Uma das resposta conhecida como viés de confirmação.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/vies-confirmacao/cellphone.jpg&quot; alt=&quot;celulares e smartphones&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Viés de confirmação é a nossa tendência em interpretar informações de maneira que elas confirmem as nossas hipóteses iniciais. Como vimos no caso dos apostadores de cavalos, as informações adicionais serviam mais para deixar eles mais confiantes do que para a ajudar nas escolhas de fato. Já no caso da Nokia, a própria Tricia &lt;a href=&quot;https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=pt-br&quot;&gt;afirmou na sua apresentação&lt;/a&gt; que as pesquisas feitas pela Nokia já saiam enviesadas pela própria visão da empresa. O que de fato vamos perceber que não muito difícil de acontecer hoje.&lt;/p&gt;
+
+&lt;p&gt;Não são raros os casos onde pesquisas testaram hipóteses de forma unilateral, ou seja, pesquisando somente a evidência que fortalece a sua hipótese.  Em 1993 Eldar Shafir fez um estudo para entender como um pequena diferença nas escolhas das palavras poderia ser capaz de afetar em uma decisão. O experimento simulava um caso de escolha de custódia deu uma criança onde um dos pais tinha características moderadas e um outro tinha fortes características tanto negativas quanto positivas. Quando perguntado qual dos pais deveria ganhar a guarda da criança, a maioria dos participantes escolheu o de características fortes. Porém, nas vezes que foi perguntado quais dos pais deveria ter a guarda negada, a maior também escolher o segundo. O que prova que caso esta pesquisa fosse testada unilateralmente, ou seja, perguntado somente qual dos pais deveria ficar com a criança, ela teria uma resposta completamente equivocada. Como aconteceu com a Nokia e acontece com a gente todo dia.&lt;/p&gt;
+
+&lt;p&gt;Desde o que vemos na nossa rede social até o que assistimos no YouTube e na Netflix é personalizado. O objetivo principal é que somente conteúdos que nos interessem cheguem para nós. Mas, esta ação tem uma consequência enorme.&lt;/p&gt;
+
+&lt;p&gt;A personalização acaba criando a nossa própria bolha virtual, onde somente conteúdos que nos agradam são mostrados na nossa tela. Eli Pariser, &lt;a href=&quot;https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=pt-br#t-514845&quot;&gt;mostra em sua apresentação&lt;/a&gt; que o fato dele ser uma pessoa progressista, o Facebook diminui a quantidade de conteúdos que seus amigos conservadores que aparecia no seu feed. Ou seja, uma vez que o nosso somos exposto majoritariamente por conteúdos que alimentem nossas crenças, só tendemos a alimentar o nosso viés confirmatório. Então como evitamos isso?&lt;/p&gt;
+
+&lt;p&gt;Desafiar os argumentos e ideias que nos foram apresentados é o começo. Tenho o costume de sempre que estou lendo e o autor me confirma algo, eu tento entender de onde veio aquela confirmação e se ela faz sentido n cenário que foi inserida. Por isso, sempre tento tomar notas de um conteúdo que estou absorvendo. Assim posso fazer um mapa daquele pensamento.&lt;/p&gt;
+
+&lt;p&gt;Assumo fazer isso é uma tarefa muito mais prática de ser feita quando estar um conteúdo algo do que quando estamos ouvindo alguém falar ao vivo, uma vez que eu posso voltar e ver o que foi dito antes inúmeras vezes e comparar com o que está sendo dito.&lt;/p&gt;
+
+&lt;p&gt;Da mesma forma que testar um hipótese unilateralmente pode acarretar em uma conclusão falha, acreditar em tudo que se lê ou ouve, sem buscar a fonte e questionar os argumentos, nos faz aumentar nossas crenças. Temos que parar de consumir conteúdos de forma passiva e começar a exercer a nossa forma ativa.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jul 2020 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/vies-confirmacao</link>
+        <guid isPermaLink="true">http://localhost:4000/vies-confirmacao</guid>
+        
+        
+        <category>estratégia</category>
+        
+      </item>
+    
+      <item>
         <title>3 Princípios da leitura</title>
-        <description>&lt;p&gt;Não é de hoje que eu leio livros. Já tive momentos onde estava devorando livros e em outros onde eu simplesmente não estava conseguindo ler tanto. Por meio desta jornada eu consegui desenvolver um [hábito que me ajudou a cada vez ler mais}(https://quebrandoocaminho.com/habito-de-leitura). Porém eu notei que além deste hábito eu construi três princípios para me guiar e eu queria compartilhar eles aqui.&lt;/p&gt;
+        <description>&lt;p&gt;Não é de hoje que eu leio livros. Já tive momentos onde estava devorando livros e em outros onde eu simplesmente não estava conseguindo ler tanto. Por meio desta jornada eu consegui desenvolver um &lt;a href=&quot;https://quebrandoocaminho.com/habito-de-leitura&quot;&gt;hábito que me ajudou a cada vez ler mais&lt;/a&gt;. Porém eu notei que além deste hábito eu construi três princípios para me guiar e eu queria compartilhar eles aqui.&lt;/p&gt;
 
 &lt;h2 id=&quot;leia-o-que-gosta-até-amar-ler&quot;&gt;Leia o que gosta até amar ler&lt;/h2&gt;
 
@@ -48,7 +89,7 @@
 
 &lt;p&gt;Foi um dos piores sentimentos que já tive enquanto lia. Não tinha prazer em fazer aquilo, parecia que o tempo não passava e sempre achava outros livros mais interessantes. Porém eu sempre tinha na minha cabeça que tinha que acabar aquele livro antes de começar um outro. Talvez este pensamento tenha nascido pelo fato de não ter tido tantas oportunidades para comprar livros na infância, desta forma me via obrigado a terminar todas as leituras.&lt;/p&gt;
 
-&lt;p&gt;Noventa dias tinham se passado depois da primeira página lida de &lt;a href=&quot;https://amzn.to/31PdJ4l&quot;&gt;A Estratégia do Oceano Azul&lt;/a&gt; e eu nem tinha chegado no meio do livro. Decidi não continuar mais a leitura e parti para o próximo livro. Iniciei a leitura de um livro chamado [O obstáculo é o caminho] (https://amzn.to/3f8ucEC). Lembro de estar amando a leitura, porém no mesmo período descobrir um outro livro que eu queria ler. A partir daí, eu me via sendo forçado a terminar o livro da forma mais rápida possível para começar a próxima leitura. Foi então que eu percebi que por mais que eu estivesse vivenciando uma leitura boa, sempre teria a chance de aparecer um livro mais interessante. Não fazia sentido para mim continuar lendo um livro por vez. Decidi ler livros paralelamente.&lt;/p&gt;
+&lt;p&gt;Noventa dias tinham se passado depois da primeira página lida de &lt;a href=&quot;https://amzn.to/31PdJ4l&quot;&gt;A Estratégia do Oceano Azul&lt;/a&gt; e eu nem tinha chegado no meio do livro. Decidi não continuar mais a leitura e parti para o próximo livro. Iniciei a leitura de um livro chamado &lt;a href=&quot;https://amzn.to/3f8ucEC&quot;&gt;O obstáculo é o caminho&lt;/a&gt;. Lembro de estar amando a leitura, porém no mesmo período descobrir um outro livro que eu queria ler. A partir daí, eu me via sendo forçado a terminar o livro da forma mais rápida possível para começar a próxima leitura. Foi então que eu percebi que por mais que eu estivesse vivenciando uma leitura boa, sempre teria a chance de aparecer um livro mais interessante. Não fazia sentido para mim continuar lendo um livro por vez. Decidi ler livros paralelamente.&lt;/p&gt;
 
 &lt;p&gt;Comecei lendo um não-ficção e uma história de ficção ao mesmo tempo. Aos poucos comecei a aumentar a quantidade de livros lidos simultaneamente e cheguei ao ponto de ler cinco livros ao mesmo tempo. Tudo parecia bem, sempre que uma leitura me entediava, eu iria para outra. O medo de ter uma leitura  chata não me assombrava mais. Porém outro medo surgira.&lt;/p&gt;
 
@@ -56,7 +97,7 @@
 
 &lt;p&gt;Quando eu comecei a inserir leituras paralelas na minha vida, comecei a demorar mais para finalizar livros, já que agora eu tinha que dividir o meu foco de leitura entre a quantidade de livros quem estava lendo. O que demorava duas semanas ou no máximo um mês para acontecer já não acontecia em três meses. Isso começou a levantar uma pergunta na minha mente: Por que eu estou tão preocupado em acabar a leitura?&lt;/p&gt;
 
-&lt;p&gt;Finalizar um livro o mais rápido possível, nunca foi a minha intensão. Extrair o máximo dele que era o foco.&lt;/p&gt;
+&lt;p&gt;Finalizar um livro o mais rápido possível, nunca foi a minha intenção. Extrair o máximo dele que era o foco.&lt;/p&gt;
 
 &lt;p&gt;Extrair o máximo de um livro pode ser traduzido como me divertir com uma boa história ou aprender algo interessante. Mas alguns livros são bastante densos e esta extração demora bastante. Em outros, esta extração acontece nas primeiras páginas e nada mais nas outras. E ainda tem casos onde eu não conseguia extrair algo. Este último ponto estava gerando desgastes assim como o que tinha ocorrido com o episódio com &lt;a href=&quot;https://amzn.to/31PdJ4l&quot;&gt;A Estratégia do Oceano Azul&lt;/a&gt;&lt;/p&gt;
 
