@@ -15,7 +15,7 @@ square_related: recommend-wolf
 
 Quanto mais informação melhor. Pelo menos este era o meu pensamento durante muito tempo. Com o avanço tecnologia, somo bombardeados com milhares de informações todo o momento. No fim, nem conseguimos absorver tudo e temos uma falsa impressão de conhecimento. O que nos faz achar que conhecemos sobre tudo. Mas será que quanto mais informação melhor? 
 
-Em 1974, um psicólogo chamado Paul Slovic fez um experimento para testar o efeito da quantidade de informação em tomada de decisões. O estudo reuniu oito apostadores profissionais de corrida de cavalo que ganhavam a vida com isso. Eles deveriam fazer a previsão de quatro rodadas e cada uma teria 10 cavalos. O objetivo era medir a qualidade da previsão de suas apostas dado um carta quantidade de informação e o nível de confiança de cada apostador.
+Em 1974, um psicólogo chamado Paul Slovic fez um experimento para testar o efeito da quantidade de informação em tomada de decisões. O estudo reuniu oito apostadores profissionais de corrida de cavalo que ganhavam a vida com isso. Eles deveriam fazer a previsão de quatro rodadas e cada uma teria 10 cavalos. O objetivo era medir a qualidade da previsão de suas apostas dado um certa quantidade de informação e o nível de confiança de cada apostador.
 
 Como em cada etapa, teríamos dez cavalos, caso um apostador chutasse aleatoriamente, teria uma probabilidade de 10%. Assim, a sua confiança em um chute, também seria de 10%. 
 
