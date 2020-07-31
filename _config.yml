@@ -20,5 +20,11 @@ footer_links:
     Writer: ['&copy; 2020 Quebrando o caminho. All rights reserved.</a>', '/about']
 
 
+disqus:
+  shortname: quebrando-o-caminho # to enable comments replace with your_disqus_shortname
+
+
+
+
 # Build settings
 # markdown: kramdown

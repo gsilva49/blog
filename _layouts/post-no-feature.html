@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <header>
@@ -39,6 +40,21 @@ layout: default
 </main> <!-- /container -->
 
 <footer class="single">
+
+    {% if site.disqus.shortname %}
+
+    <div class="comments">
+      <div class="container">
+        <div class="post-content">
+
+          {% include disqus.html %}
+
+        </div>
+      </div>
+    </div>
+
+    {% endif %}
+    
     {% include footer-single.html %}
 
     {% if page.show_related_posts == true %}
