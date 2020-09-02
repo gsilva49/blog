@@ -79,7 +79,7 @@ Além deste filtro, também não queria uma cafeteira onde tivesse que usar filt
 
 Como terceiro filtro, usei o que geralmente usamos, o orçamento. Desta forma, qualquer cafeteira que fosse ultrapassasse o limite financeiro que eu já tinha estabelecido, era cortada. 
 
-Com os três filtros estabelecidos, em menos de 30 minutos eu consegui escolher onde comprar e mesmo dia estava tomando meu chá.
+Com os três filtros estabelecidos, em menos de 30 minutos eu consegui escolher onde comprar e no mesmo dia estava tomando meu chá.
 
 Na próxima vez que você estive enfrentando um dilema do que escolher, em vez de listar os prós e contra de cara, tente criar filtros para diminuir as opções.
 
