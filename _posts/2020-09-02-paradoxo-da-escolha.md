@@ -63,7 +63,7 @@ Você pode estar se questionando se algo simples assim pode resolver este proble
 
 Observando alguns nomes da história, eu descobri que a forma mais eficiente de diminuir as opções presentes é usando filtros pessoais para eliminar o volume das escolhas. 
 
-Um grande exemplo é o Warren Buffett. Ele é um dos maiores investidores do mundo. E quando se trata de investimento, podemos apontar uma infinidade de opções que aparentam ser boas. Como Buffet fez ótimos investimentos na vida, procurei como ele fazia as suas escolhas.
+Um grande exemplo é o [Warren Buffett](https://pt.wikipedia.org/wiki/Warren_Buffett). Ele é um dos maiores investidores do mundo. E quando se trata de investimento, podemos apontar uma infinidade de opções que aparentam ser boas. Como Buffet fez ótimos investimentos na vida, procurei como ele fazia as suas escolhas.
 
 Descobri que ele tem uma série de filtros pessoais que o ajudam na escolhas de seus investimentos. Um dos filtros afirma que a empresa que ele pretende investi deveria ser simples. Se tivesse muita tecnologia, ele não iria entender e assim preferia não investir nela. Desta forma, Warren Buffett elimina boa parte das opções no mundo e se concentraria somente naquelas que sobravam. 
 
