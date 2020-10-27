@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Oct 2020 19:01:26 -0300</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2020 19:01:26 -0300</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2020 19:14:08 -0300</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2020 19:14:08 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -66,8 +66,8 @@
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://quebrandoocaminho.com/perfeicao&quot;&gt;Como Focar Somente na Perfeição Pode Arruinar o Seu Projeto&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Oct 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/pomodoro2</link>
-        <guid isPermaLink="true">http://localhost:4000/pomodoro2</guid>
+        <link>http://localhost:4000/pomodoro-planilha</link>
+        <guid isPermaLink="true">http://localhost:4000/pomodoro-planilha</guid>
         
         
         <category>estratégia</category>
